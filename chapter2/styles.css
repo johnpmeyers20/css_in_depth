@@ -1,0 +1,23 @@
+div {
+  margin-top: 1em;
+  border: 5px solid orange;
+  position: absolute;
+}
+
+span {
+  display: inline-block;
+}
+
+.box {
+  position: relative;
+  padding: 2em;
+  border-radius: 1em;
+  background-color: lightgray;
+}
+
+.box-small {
+  font-size: 12px;
+}
+.box-large {
+  font-size: 18px;
+}
